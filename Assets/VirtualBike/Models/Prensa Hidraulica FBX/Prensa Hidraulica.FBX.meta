@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 9b74b1cb6982b0043b3d3b4665cd341c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cilindro_Central
+    100002: Cilindro_central_002
+    100004: Clindro Central
+    100006: Detal_Mesa
+    100008: Mangueras
+    100010: Mesa
+    100012: Mesa_interior_001
+    100014: Mesa_interior_004
+    100016: Mesa_interior_005
+    100018: Mesa_interior_Base
+    100020: Pieza_001
+    100022: Pieza_002
+    100024: //RootNode
+    100026: Soportes
+    100028: Soportes_superiores
+    100030: Tabla
+    100032: Tubos
+    400000: Cilindro_Central
+    400002: Cilindro_central_002
+    400004: Clindro Central
+    400006: Detal_Mesa
+    400008: Mangueras
+    400010: Mesa
+    400012: Mesa_interior_001
+    400014: Mesa_interior_004
+    400016: Mesa_interior_005
+    400018: Mesa_interior_Base
+    400020: Pieza_001
+    400022: Pieza_002
+    400024: //RootNode
+    400026: Soportes
+    400028: Soportes_superiores
+    400030: Tabla
+    400032: Tubos
+    2300000: Cilindro_Central
+    2300002: Cilindro_central_002
+    2300004: Clindro Central
+    2300006: Detal_Mesa
+    2300008: Mangueras
+    2300010: Mesa
+    2300012: Mesa_interior_001
+    2300014: Mesa_interior_004
+    2300016: Mesa_interior_005
+    2300018: Mesa_interior_Base
+    2300020: Pieza_001
+    2300022: Pieza_002
+    2300024: Soportes
+    2300026: Soportes_superiores
+    2300028: Tabla
+    2300030: Tubos
+    3300000: Cilindro_Central
+    3300002: Cilindro_central_002
+    3300004: Clindro Central
+    3300006: Detal_Mesa
+    3300008: Mangueras
+    3300010: Mesa
+    3300012: Mesa_interior_001
+    3300014: Mesa_interior_004
+    3300016: Mesa_interior_005
+    3300018: Mesa_interior_Base
+    3300020: Pieza_001
+    3300022: Pieza_002
+    3300024: Soportes
+    3300026: Soportes_superiores
+    3300028: Tabla
+    3300030: Tubos
+    4300000: Tabla
+    4300002: Pieza_001
+    4300004: Mesa_interior_Base
+    4300006: Cilindro_central_002
+    4300008: Cilindro_Central
+    4300010: Soportes_superiores
+    4300012: Pieza_002
+    4300014: Clindro Central
+    4300016: Tubos
+    4300018: Mesa
+    4300020: Detal_Mesa
+    4300022: Mangueras
+    4300024: Mesa_interior_001
+    4300026: Soportes
+    4300028: Mesa_interior_004
+    4300030: Mesa_interior_005
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Troqueladora_Mat
+    second: {fileID: 2100000, guid: eae7e2dbb254d4f458093ee875c5615e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

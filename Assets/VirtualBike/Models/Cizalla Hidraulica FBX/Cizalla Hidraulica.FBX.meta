@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 174d10ae019c60949a43aa81a91644d8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base_Pedal_de_seguridad
+    100002: Boton_emergencia_Base_001
+    100004: Boton_emergencia_Base_002
+    100006: Cable_pedal
+    100008: //RootNode
+    100010: Cizalla_Hidraulica
+    100012: Conector_de_luz
+    100014: Cuchilla_Soporte
+    100016: Panel Control Pantalla
+    100018: Panel_Control
+    100020: Pedal_001
+    100022: Prensa_001
+    100024: "Prensa_Animaci\xF3n_001"
+    100026: Regla 001
+    100028: Regla 002
+    100030: Regla 003
+    100032: Soporte_Pata_001
+    100034: Soporte_principal
+    100036: Vidrios
+    400000: Base_Pedal_de_seguridad
+    400002: Boton_emergencia_Base_001
+    400004: Boton_emergencia_Base_002
+    400006: Cable_pedal
+    400008: //RootNode
+    400010: Cizalla_Hidraulica
+    400012: Conector_de_luz
+    400014: Cuchilla_Soporte
+    400016: Panel Control Pantalla
+    400018: Panel_Control
+    400020: Pedal_001
+    400022: Prensa_001
+    400024: "Prensa_Animaci\xF3n_001"
+    400026: Regla 001
+    400028: Regla 002
+    400030: Regla 003
+    400032: Soporte_Pata_001
+    400034: Soporte_principal
+    400036: Vidrios
+    2300000: Base_Pedal_de_seguridad
+    2300002: Boton_emergencia_Base_001
+    2300004: Boton_emergencia_Base_002
+    2300006: Cable_pedal
+    2300008: Cizalla_Hidraulica
+    2300010: Conector_de_luz
+    2300012: Cuchilla_Soporte
+    2300014: Panel Control Pantalla
+    2300016: Panel_Control
+    2300018: Pedal_001
+    2300020: Prensa_001
+    2300022: "Prensa_Animaci\xF3n_001"
+    2300024: Regla 001
+    2300026: Regla 002
+    2300028: Regla 003
+    2300030: Soporte_Pata_001
+    2300032: Soporte_principal
+    2300034: Vidrios
+    3300000: Base_Pedal_de_seguridad
+    3300002: Boton_emergencia_Base_001
+    3300004: Boton_emergencia_Base_002
+    3300006: Cable_pedal
+    3300008: Cizalla_Hidraulica
+    3300010: Conector_de_luz
+    3300012: Cuchilla_Soporte
+    3300014: Panel Control Pantalla
+    3300016: Panel_Control
+    3300018: Pedal_001
+    3300020: Prensa_001
+    3300022: "Prensa_Animaci\xF3n_001"
+    3300024: Regla 001
+    3300026: Regla 002
+    3300028: Regla 003
+    3300030: Soporte_Pata_001
+    3300032: Soporte_principal
+    3300034: Vidrios
+    4300000: Regla 001
+    4300002: Panel Control Pantalla
+    4300004: Cizalla_Hidraulica
+    4300006: Panel_Control
+    4300008: Vidrios
+    4300010: Boton_emergencia_Base_001
+    4300012: Soporte_principal
+    4300014: Soporte_Pata_001
+    4300016: Prensa_001
+    4300018: "Prensa_Animaci\xF3n_001"
+    4300020: Cuchilla_Soporte
+    4300022: Base_Pedal_de_seguridad
+    4300024: Pedal_001
+    4300026: Cable_pedal
+    4300028: Conector_de_luz
+    4300030: Boton_emergencia_Base_002
+    4300032: Regla 002
+    4300034: Regla 003
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cizalla_Hidraulica_Mat
+    second: {fileID: 2100000, guid: b6c48a85eb74f56439923848d08df99e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Panel_Regla_Mat
+    second: {fileID: 2100000, guid: acbc8d7fa91887844b511be7e7abacf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vidrio_Mat
+    second: {fileID: 2100000, guid: efb9a5c8e11a9ba4e821e371c2accb71, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
