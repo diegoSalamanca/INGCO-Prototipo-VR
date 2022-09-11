@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1071674001968644937}
   - component: {fileID: 3167563576654602455}
   - component: {fileID: 6970842261987513100}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Reticle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58,7 +58,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
+  m_RenderingLayerMask: 3
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 3494efe33b4374e4e8b9e80bbf0d22ad, type: 2}
@@ -4864,7 +4864,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8595506906321274991}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Reticle
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -1373,6 +1373,56 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "XR Menu",
+            "id": "d07327b8-2cfb-41fb-8640-36f43a5ef97d",
+            "actions": [
+                {
+                    "name": "menu",
+                    "type": "Button",
+                    "id": "d0f3e140-cc79-4293-87f5-93d0f0a82262",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "17231baa-25ae-4c55-b997-4d05978739b2",
+                    "path": "<XRController>{LeftHand}/menuButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Generic XR Controller;Continuous Move;Noncontinuous Move",
+                    "action": "menu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bd66fc05-f2ba-4af4-94b7-4e0cc3149500",
+                    "path": "<XRController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Generic XR Controller;Continuous Move;Noncontinuous Move",
+                    "action": "menu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ee4c45b1-c590-4ba5-a7b9-fafb254db1e6",
+                    "path": "<XRController>{LeftHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Generic XR Controller;Continuous Move;Noncontinuous Move",
+                    "action": "menu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [

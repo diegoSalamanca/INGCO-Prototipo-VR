@@ -17,7 +17,7 @@ TagManager:
   - Water
   - UI
   - light
-  - 
+  - XRay
   - 
   - 
   - 
@@ -43,6 +43,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: ui
+    uniqueID: 2491413595
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

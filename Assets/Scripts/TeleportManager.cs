@@ -39,48 +39,7 @@ public class TeleportManager : MonoBehaviour
         initialInteractionnLayers = rayInteractor.interactionLayers;
     }
   
-    void Update()
-    {
-        /*if(useStick.action.phase == InputActionPhase.Performed)
-        print("Activated");
-
-        if(useStick.action.phase== InputActionPhase.Canceled)
-        print("canceled");
-
-        if(!isTeleportActivate)
-        return;
-
-        if(!useGrip.action.triggered)
-        return;
-
-        rayInteractor.GetValidTargets(interactables);
-        if(interactables.Count == 0)
-        {
-            TurnoffTeleport();
-            return;
-        }
-
-        rayInteractor.TryGetCurrent3DRaycastHit(out RaycastHit hit);
-        TeleportRequest request = new TeleportRequest();
-
-        if(interactables[0].interactionLayers == 2)
-        {
-            request.destinationPosition = hit.point;
-
-        }
-
-        else if(interactables[0].interactionLayers == 4)
-         {
-            request.destinationPosition = hit.transform.GetChild(0).transform.position;
-
-        }
-
-        teleportationProvider.QueueTeleportRequest(request);
-        TurnoffTeleport();*/
-        
-
-
-    }
+    
 
     private void OnTeleportCancel(InputAction.CallbackContext obj)
     {      
