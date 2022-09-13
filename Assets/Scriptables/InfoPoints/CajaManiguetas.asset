@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: CajaManiguetas
+  m_EditorClassIdentifier: 
+  title: Maniguetas
+  info: "Las maniguetas se ensamblan al manubrio al final del ensamble y son ajustadas
+    con tornillos. La presi\xF3n ejercida sobre \xE9stas permite la acci\xF3n de
+    frenado que es transmitida por las guayas al sistema de frenos de las ruedas
+    delantera y trasera."
+  image: {fileID: 21300006, guid: 14acfd7b192d85a47a4449de0261bdb0, type: 3}

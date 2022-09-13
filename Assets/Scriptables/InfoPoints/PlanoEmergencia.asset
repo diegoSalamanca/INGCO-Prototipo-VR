@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: PlanoEmergencia
+  m_EditorClassIdentifier: 
+  title: Plano de Emergencia
+  info: "El plano de emergencia es una representaci\xF3n gr\xE1fica de las diferentes
+    zonas de la planta y las v\xEDas de movilidad para identificar f\xE1cilmente
+    las salidas, puntos de encuentro y rutas que facilitan la ubicaci\xF3n en caso
+    de evacuaci\xF3n o en caso de emergencia. La manera de usarlo es identificar
+    los puntos de referencia y la ubicaci\xF3n de quien est\xE1 viendo el plano para
+    de esta manera seleccionar la ruta m\xE1s sencilla y llegar al destino que se
+    elija"
+  image: {fileID: 21300016, guid: ee3495b41441d9a42bf45096fc8a7a45, type: 3}

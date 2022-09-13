@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: Troqueladora
+  m_EditorClassIdentifier: 
+  title: Troqueladora
+  info: "Especificaciones de la Prensa-Troqueladora\r\n\n\nPresi\xF3n de cierre (Ton.):
+    63\r\nCarrera del cierre (mm): 4\r\nViaje del carro (mm): 120\r\nN\xFAmero de
+    golpes por minuto: 70\r\nAltura m\xE1xima del carro (mm): 300\r\nAjuste de altura
+    del carro (mm): 80\r\nEspesor de la mesa (mm): 110\r\nMotor (hp): 10\r\nDimensiones
+    (largo x ancho x alto) (mm): 2000 x 1305 x 2600\r\nPeso (Kg): 5400\r\n"
+  image: {fileID: 0}

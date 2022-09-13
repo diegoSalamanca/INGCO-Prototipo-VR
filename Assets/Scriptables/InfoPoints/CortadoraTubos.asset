@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: CortadoraTubos
+  m_EditorClassIdentifier: 
+  title: Cortadora de tubos
+  info: "La cortadora de tubos es la m\xE1quina encargada de dimensionar los tubos
+    con un largo espec\xEDfico para fabricar cada parte del cuadro, la horquilla
+    y los manubrios de la bicicleta. Debe ser de uso industrial y consta de un motor
+    que hace girar la sierra de corte que incluye una protecci\xF3n, y un carro con
+    prensa ajustable m\xF3vil que asegura los tubos de manera precisa y mecanismos
+    de seguridad que evitan la accidentabilidad del operario. \n\nCriterios de Selecci\xF3n
+    del disco de corte:\r\nPor n\xFAmero de dientes por pulgada:\r\nPara cortes finos,
+    corte de acero se usan 32 dientes x in.\r\nPara tubos gruesos y medianos, lata
+    y cobre, se usan 24 dientes x in.\r\nPara tuber\xEDas duras de hierro y grandes
+    piezas de acero, se usan 18 dientes x in.\r\nPara tubos pl\xE1sticos o madera,
+    se usan 12 dientes x in.\r\nPara o aluminio y hojalata se usan 14 dientes x in.\r\n\r\nPor
+    material del disco:\r\nPara metales no ferrosos, el disco debe ser de acero.\r\nPara
+    metales ferrosos, el disco debe ser de acero r\xE1pido\r\nPara aluminio, acero,
+    cobre y metales no ferrosos el disco de corte debe ser de carburo.\r"
+  image: {fileID: 21300006, guid: db16edc005f4198428c892eb54fe2ce8, type: 3}

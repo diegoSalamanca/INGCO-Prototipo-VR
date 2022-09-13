@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: EquipoSoldaduraElectrica
+  m_EditorClassIdentifier: 
+  title: "Equipo de soldadura el\xE9ctrica"
+  info: "La tensi\xF3n y la intensidad se obtienen por medio de un m\xE1quina generadora
+    de corriente alterna.  La polaridad influye en la transferencia de calor al metal,
+    normalmente se conecta el polo negativo con el electrodo, sin embargo, para metales
+    livianos se conecta el polo positivo al electrodo.\r\nIntensidad de corriente
+    requerida para la soldadura: 40A x 1mm de espesor\r\nCondiciones para una soldadura
+    de \xF3ptima calidad:\r\nCorrecta longitud de arco.\r\nCorrecta velocidad de
+    avance.\r\nCorrecta regulaci\xF3n e inclinaci\xF3n del electrodo.\r\nAspecto
+    regular del cord\xF3n.\r\nMalla fina.\r\nSoldadura carente de porosidad y sin
+    escoria\r"
+  image: {fileID: 0}

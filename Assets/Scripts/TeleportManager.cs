@@ -51,6 +51,7 @@ public class TeleportManager : MonoBehaviour
         return;
 
         rayInteractor.GetValidTargets(interactables);
+
         if(interactables.Count == 0)
         {
             TurnoffTeleport();
@@ -67,22 +68,28 @@ public class TeleportManager : MonoBehaviour
         }
 
         else if(interactables[0].interactionLayers == 4)
-         {
+        {
             request.destinationPosition = hit.transform.GetChild(0).transform.position;
 
+        }
+
+        else
+        {
+            TurnoffTeleport();
+            return;
         }
 
         teleportationProvider.QueueTeleportRequest(request);
         TurnoffTeleport();
 
             //TurnoffTeleport();  
-            print("Cancel");
+           // print("Cancel");
         
     }
 
     private void OnteleportActivate(InputAction.CallbackContext obj)
     {
-        print("Activated");
+        //print("Activated");
         if(useStick.action.phase != InputActionPhase.Performed)
         {
             isTeleportActivate = true;

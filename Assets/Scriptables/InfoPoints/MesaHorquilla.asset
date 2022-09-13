@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: MesaHorquilla
+  m_EditorClassIdentifier: 
+  title: Mesa Alineacion Horquilla
+  info: "Entre los defectos m\xE1s comunes de los cordones de soldadura que se revisan
+    en el proceso de rectificado, se encuentran:\r\n\nPorosidad: Huecos presentes
+    en la soldadura.\r\n\nInclusiones de escoria: Presencia de \xF3xidos no met\xE1licos.\r\n\nFalta
+    de fusi\xF3n: Agrietamiento de la soldadura.\r\n\nFisuras: Agrietamiento de juntas.\r\n\nPenetraci\xF3n
+    incompleta: el metal de la soldadura no se funde completamente con el metal base.\r\n\nMordedura:
+    reducci\xF3n de espesor del metal base en el \xE1rea donde se realiz\xF3 la soldadura.\r\n\nProyecciones:
+    Gotas de metal fundido sobre la superficie del metal base.\r\n"
+  image: {fileID: 21300008, guid: db16edc005f4198428c892eb54fe2ce8, type: 3}

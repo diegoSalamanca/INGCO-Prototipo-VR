@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: Cizalla
+  m_EditorClassIdentifier: 
+  title: Cizalla
+  info: "Especificaciones Cizalla Hidr\xE1ulica C2006 CNC\r\nPotencia Motor: 5.5
+    KW/ 7.5 CV\r\nTensi\xF3n de 3 fases: 230 / 400 W\r\nCapacidad de corte                         
+    \r\nAcero (450 N/mm2): 6 mm\r\nInox (700 N/mm2): 4 mm\r\n# de pisadores: 10 unidades\r\nLongitud
+    de corte: 2030 mm\r\nGolpes por minuto: 10 golpes\r\nPrecisi\xF3n repetitividad
+    de posici\xF3n: +/- 0.1 mm\r\nDimensiones: 675x2364x1762 mm\r\nPeso: 4750 Kg"
+  image: {fileID: 0}
