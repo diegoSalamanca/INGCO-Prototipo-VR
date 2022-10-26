@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: Info_12_filtracion
+  m_EditorClassIdentifier: 
+  title: "Filtraci\xF3n"
+  info: "Los sistemas de filtraci\xF3n limpian el agua haci\xE9ndola pasar a trav\xE9s
+    de lechos de materiales granulares y porosos que retiran los contaminantes. Los
+    sistemas de filtrado convencionales directos, como los lechos de arena y tierra
+    de diatom\xE1ceas, son eficientes para eliminar la mayor\xEDa de los protozoos,
+    bacterias y virus. Usualmente los filtros de bolsa no son eficaces para eliminar
+    virus y bacterias. "
+  image: {fileID: -5959090428959277536, guid: 9a8fe5d6394eaa9499542aeaaaf4467f, type: 3}

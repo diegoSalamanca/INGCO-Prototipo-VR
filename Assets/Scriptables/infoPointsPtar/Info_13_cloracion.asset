@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: Info_13_cloracion
+  m_EditorClassIdentifier: 
+  title: "Cloraci\xF3n"
+  info: "Usualmente se adicionan compuestos clorados para desinfectar y potabilizar
+    el agua. La cantidad a adicionar depende de la normativa a cumplir, es decir
+    que para un tratamiento exhaustivo, por ejemplo cuando el agua se destinar\xE1
+    a consumo humano, la cantidad de agente desinfectante ser\xE1 mayor en comparaci\xF3n
+    cuando el agua se dispondr\xE1 en un cuerpo h\xEDdrico. Los compuestos clorados
+    m\xE1s empleados son di\xF3xido de cloro, hipoclorito de sodio, hipoclorito de
+    calcio y \xE1cido cloroisocian\xFArico. "
+  image: {fileID: -255931946883857037, guid: 9a8fe5d6394eaa9499542aeaaaf4467f, type: 3}

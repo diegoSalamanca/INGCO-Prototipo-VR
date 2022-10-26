@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 6c797c89e18cf3540b01653da68c95d2
+timeCreated: 1460499049
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder7893
+    100002: llave_cuba373
+    100004: manija_llave214
+    100006: Object088
+    100008: Object089
+    100010: Object090
+    100012: Object091
+    100014: Object092
+    100016: Object093
+    100018: Object094
+    100020: Shape027
+    100022: Shape028
+    100024: Shape029
+    100026: //RootNode
+    400000: Cylinder7893
+    400002: llave_cuba373
+    400004: manija_llave214
+    400006: Object088
+    400008: Object089
+    400010: Object090
+    400012: Object091
+    400014: Object092
+    400016: Object093
+    400018: Object094
+    400020: Shape027
+    400022: Shape028
+    400024: Shape029
+    400026: //RootNode
+    2300000: Cylinder7893
+    2300002: llave_cuba373
+    2300004: manija_llave214
+    2300006: Object088
+    2300008: Object089
+    2300010: Object090
+    2300012: Object091
+    2300014: Object092
+    2300016: Object093
+    2300018: Object094
+    2300020: Shape027
+    2300022: Shape028
+    2300024: Shape029
+    3300000: Cylinder7893
+    3300002: llave_cuba373
+    3300004: manija_llave214
+    3300006: Object088
+    3300008: Object089
+    3300010: Object090
+    3300012: Object091
+    3300014: Object092
+    3300016: Object093
+    3300018: Object094
+    3300020: Shape027
+    3300022: Shape028
+    3300024: Shape029
+    4300000: Cylinder7893
+    4300002: llave_cuba373
+    4300004: manija_llave214
+    4300006: Object088
+    4300008: Object089
+    4300010: Object090
+    4300012: Object091
+    4300014: Object092
+    4300016: Object093
+    4300018: Object094
+    4300020: Shape027
+    4300022: Shape028
+    4300024: Shape029
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

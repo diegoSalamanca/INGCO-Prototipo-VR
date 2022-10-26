@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: Info_10_reactor_anaerobio
+  m_EditorClassIdentifier: 
+  title: 'Reactor anaerobio '
+  info: "El tratamiento biol\xF3gico del agua residual implica el uso de microorganismos
+    que se encargan de descomponer la materia org\xE1nica del agua en sustancias
+    menos contaminantes. Las bacterias son las que principalmente se encargan de
+    metabolizar la materia org\xE1nica como fuente de energ\xEDa y carbono para producir
+    nueva biomasa. Los tratamientos biol\xF3gicos pueden ser aerobios o anaerobios
+    y la eficiencia de uno u otro tratamiento es evaluada a trav\xE9s de la DQO (Demanda
+    Qu\xEDmica de Ox\xEDgeno), par\xE1metro que indica la cantidad de ox\xEDgeno
+    necesaria para degradar qu\xEDmicamente la materia org\xE1nica presente en el
+    medio. En la digesti\xF3n anaerobia, la materia org\xE1nica es transformada en
+    biog\xE1s, una mezcla gaseosa compuesta principalmente por metano y di\xF3xido
+    de carbono."
+  image: {fileID: -7031133482820522005, guid: 9a8fe5d6394eaa9499542aeaaaf4467f, type: 3}

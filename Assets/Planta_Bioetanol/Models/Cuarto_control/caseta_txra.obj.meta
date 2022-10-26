@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 68135a20adc320d47999a65b2bd88e65
+timeCreated: 1495227702
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: caseta
+    100002: //RootNode
+    100004: manija1
+    100006: manija2
+    100008: marco_puerta
+    100010: puerta1
+    100012: puerta2
+    100014: ventana1
+    100016: ventana2
+    100018: vidrio1
+    100020: vidrio2
+    100022: vidrio3
+    100024: vidrio4
+    400000: caseta
+    400002: //RootNode
+    400004: manija1
+    400006: manija2
+    400008: marco_puerta
+    400010: puerta1
+    400012: puerta2
+    400014: ventana1
+    400016: ventana2
+    400018: vidrio1
+    400020: vidrio2
+    400022: vidrio3
+    400024: vidrio4
+    2300000: caseta
+    2300002: manija1
+    2300004: manija2
+    2300006: marco_puerta
+    2300008: puerta1
+    2300010: puerta2
+    2300012: ventana1
+    2300014: ventana2
+    2300016: vidrio1
+    2300018: vidrio2
+    2300020: vidrio3
+    2300022: vidrio4
+    3300000: caseta
+    3300002: manija1
+    3300004: manija2
+    3300006: marco_puerta
+    3300008: puerta1
+    3300010: puerta2
+    3300012: ventana1
+    3300014: ventana2
+    3300016: vidrio1
+    3300018: vidrio2
+    3300020: vidrio3
+    3300022: vidrio4
+    4300000: caseta
+    4300002: manija1
+    4300004: manija2
+    4300006: marco_puerta
+    4300008: puerta1
+    4300010: puerta2
+    4300012: ventana1
+    4300014: ventana2
+    4300016: vidrio1
+    4300018: vidrio2
+    4300020: vidrio3
+    4300022: vidrio4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

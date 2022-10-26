@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: Info_09_flotacion
+  m_EditorClassIdentifier: 
+  title: "Flotaci\xF3n"
+  info: "Este proceso consiste en formar burbujas diminutas de aire en el seno del
+    fluido para que se unan a las part\xEDculas coloidales, emulsiones o aglomerados
+    presentes en el agua residual, donde la fuerza ascencional que experimenta el
+    conjunto part\xEDcula - burbuja hace que se eleven a la superficie y se retiren
+    posteriormente. En esta operaci\xF3n unitaria favorece la eliminaci\xF3n de s\xF3lidos
+    en suspensi\xF3n con densidad menor o igual a la del agua entre ellas los aceites
+    y las grasas en estado libre."
+  image: {fileID: -300986942090879347, guid: 9a8fe5d6394eaa9499542aeaaaf4467f, type: 3}

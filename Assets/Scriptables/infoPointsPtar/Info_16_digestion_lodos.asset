@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: Info_16_digestion_lodos
+  m_EditorClassIdentifier: 
+  title: "Digesti\xF3n de lodos "
+  info: "La digesti\xF3n anaer\xF3bica de los lodos deriva en la producci\xF3n de
+    biog\xE1s y biofertilizantes. Los lodos ingresan al digestor, en cuyo interior
+    hay 3 tipos de bacterias: las bacterias acidog\xE9nicas, que se encargan de hidrolizar
+    la materia org\xE1nica para producir \xE1cidos grasos. Tambi\xE9n est\xE1n las
+    bacterias acetog\xE9nicas que consumen esos \xE1cidos grasos para producir \xE1cido
+    ac\xE9tico, el cual es el alimento del otro grupo de bacterias, las metanog\xE9nicas,
+    que a partir de este sustrato producen el biog\xE1s compuesto en su mayor\xEDa
+    por metano."
+  image: {fileID: -6021822246145979266, guid: 9a8fe5d6394eaa9499542aeaaaf4467f, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: Info_18_almacenamiento_lodos
+  m_EditorClassIdentifier: 
+  title: 'Almacenamiento de lodos '
+  info: "Los lodos, estabilizados y deshidratados, se almacenan temporalmente antes
+    de disponerlos. A estos se les realizan pruebas de laboratorio para determinar
+    la carga contaminante y en funci\xF3n de esta se decide si se pueden utilizar
+    como fertilizante org\xE1nico en granjas o se debe llevar directamente a un relleno
+    sanitario."
+  image: {fileID: -385855538523116991, guid: 9a8fe5d6394eaa9499542aeaaaf4467f, type: 3}

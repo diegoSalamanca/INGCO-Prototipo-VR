@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 91ee7148df9ea6b4a8b5cfb21d590976
+timeCreated: 1498598067
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: caseta
+    100002: //RootNode
+    100004: manija1
+    100006: manija2
+    100008: marco_puerta
+    100010: puerta1
+    100012: puerta2
+    100014: tolva
+    100016: ventana1
+    100018: ventana2
+    100020: ventana3
+    100022: ventana4
+    100024: vidrio007
+    100026: vidrio008
+    100028: vidrio10
+    100030: vidrio2
+    100032: vidrio4
+    100034: vidrio5
+    100036: vidrio6
+    100038: vidrio7
+    100040: vidrio8
+    100042: vidrio9
+    400000: caseta
+    400002: //RootNode
+    400004: manija1
+    400006: manija2
+    400008: marco_puerta
+    400010: puerta1
+    400012: puerta2
+    400014: tolva
+    400016: ventana1
+    400018: ventana2
+    400020: ventana3
+    400022: ventana4
+    400024: vidrio007
+    400026: vidrio008
+    400028: vidrio10
+    400030: vidrio2
+    400032: vidrio4
+    400034: vidrio5
+    400036: vidrio6
+    400038: vidrio7
+    400040: vidrio8
+    400042: vidrio9
+    2300000: caseta
+    2300002: manija1
+    2300004: manija2
+    2300006: marco_puerta
+    2300008: puerta1
+    2300010: puerta2
+    2300012: tolva
+    2300014: ventana1
+    2300016: ventana2
+    2300018: ventana3
+    2300020: ventana4
+    2300022: vidrio007
+    2300024: vidrio008
+    2300026: vidrio10
+    2300028: vidrio2
+    2300030: vidrio4
+    2300032: vidrio5
+    2300034: vidrio6
+    2300036: vidrio7
+    2300038: vidrio8
+    2300040: vidrio9
+    3300000: caseta
+    3300002: manija1
+    3300004: manija2
+    3300006: marco_puerta
+    3300008: puerta1
+    3300010: puerta2
+    3300012: tolva
+    3300014: ventana1
+    3300016: ventana2
+    3300018: ventana3
+    3300020: ventana4
+    3300022: vidrio007
+    3300024: vidrio008
+    3300026: vidrio10
+    3300028: vidrio2
+    3300030: vidrio4
+    3300032: vidrio5
+    3300034: vidrio6
+    3300036: vidrio7
+    3300038: vidrio8
+    3300040: vidrio9
+    4300000: caseta
+    4300002: manija1
+    4300004: manija2
+    4300006: marco_puerta
+    4300008: puerta1
+    4300010: puerta2
+    4300012: tolva
+    4300014: ventana1
+    4300016: ventana2
+    4300018: ventana3
+    4300020: ventana4
+    4300022: vidrio007
+    4300024: vidrio008
+    4300026: vidrio10
+    4300028: vidrio2
+    4300030: vidrio4
+    4300032: vidrio5
+    4300034: vidrio6
+    4300036: vidrio7
+    4300038: vidrio8
+    4300040: vidrio9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

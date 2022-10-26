@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: Info_22_generador_electrico
+  m_EditorClassIdentifier: 
+  title: "Generador el\xE9ctrico "
+  info: "Este equipo es un motor de combusti\xF3n interna que aprovecha el poder
+    calor\xEDfico del biog\xE1s enriquecido para generar energ\xEDa el\xE9ctrica
+    y energ\xEDa t\xE9rmica. La combusti\xF3n que ocurre al interior del motor permite
+    obtener energ\xEDa el\xE9ctrica aprovechable dentro de la PTAR o comercializable
+    en las redes de energ\xEDa. La temperatura a la que se expulsan los gases de
+    combusti\xF3n los perfila como una fuente de energ\xEDa t\xE9rmica. "
+  image: {fileID: -6169952491960671839, guid: 9a8fe5d6394eaa9499542aeaaaf4467f, type: 3}

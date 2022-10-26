@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: Info_07_homogeneizador-Coagulador
+  m_EditorClassIdentifier: 
+  title: 'Homogeneizador - coagulador '
+  info: "En la etapa de coagulaci\xF3n ocurre la neutralizaci\xF3n de las cargas
+    el\xE9ctrica de las part\xEDculas contaminantes presentes de forma disuelta y
+    en suspensi\xF3n, dando lugar a una disminuci\xF3n de las repulsiones entre part\xEDculas
+    y a la formaci\xF3n de aglomerados para su posterior precipitaci\xF3n, bien sea
+    por sedimentaci\xF3n o filtraci\xF3n. La coagulaci\xF3n puede darse por agentes
+    qu\xEDmicos o mediante la aplicaci\xF3n de corriente el\xE9ctrica en medio acuoso."
+  image: {fileID: -3307281679821245406, guid: 9a8fe5d6394eaa9499542aeaaaf4467f, type: 3}

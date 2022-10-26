@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 695d6f0aa9ccac94aa61bfe6a173e6e1
+timeCreated: 1500306663
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cylinder001
+    100004: Cylinder002
+    100006: Group_001
+    100008: Group_003
+    100010: Group_004
+    100012: Group_005
+    100014: Group_008
+    100016: Group_011
+    100018: Group_012
+    100020: Group_013
+    100022: Group_014
+    100024: Group_016
+    100026: Group_018
+    100028: Group_019
+    100030: Group_021
+    100032: Group_023
+    100034: Group_026
+    100036: Group_029
+    100038: Group_030
+    100040: Group_031
+    100042: Group_032
+    100044: Group_034
+    100046: Group_036
+    100048: Group_037
+    100050: Line001
+    100052: Plane001
+    100054: Plane002
+    100056: Silla
+    400000: //RootNode
+    400002: Cylinder001
+    400004: Cylinder002
+    400006: Group_001
+    400008: Group_003
+    400010: Group_004
+    400012: Group_005
+    400014: Group_008
+    400016: Group_011
+    400018: Group_012
+    400020: Group_013
+    400022: Group_014
+    400024: Group_016
+    400026: Group_018
+    400028: Group_019
+    400030: Group_021
+    400032: Group_023
+    400034: Group_026
+    400036: Group_029
+    400038: Group_030
+    400040: Group_031
+    400042: Group_032
+    400044: Group_034
+    400046: Group_036
+    400048: Group_037
+    400050: Line001
+    400052: Plane001
+    400054: Plane002
+    400056: Silla
+    2300000: Cylinder001
+    2300002: Cylinder002
+    2300004: Group_001
+    2300006: Group_003
+    2300008: Group_004
+    2300010: Group_005
+    2300012: Group_008
+    2300014: Group_011
+    2300016: Group_012
+    2300018: Group_013
+    2300020: Group_014
+    2300022: Group_016
+    2300024: Group_018
+    2300026: Group_019
+    2300028: Group_021
+    2300030: Group_023
+    2300032: Group_026
+    2300034: Group_029
+    2300036: Group_030
+    2300038: Group_031
+    2300040: Group_032
+    2300042: Group_034
+    2300044: Group_036
+    2300046: Group_037
+    2300048: Line001
+    2300050: Plane001
+    2300052: Plane002
+    2300054: Silla
+    3300000: Cylinder001
+    3300002: Cylinder002
+    3300004: Group_001
+    3300006: Group_003
+    3300008: Group_004
+    3300010: Group_005
+    3300012: Group_008
+    3300014: Group_011
+    3300016: Group_012
+    3300018: Group_013
+    3300020: Group_014
+    3300022: Group_016
+    3300024: Group_018
+    3300026: Group_019
+    3300028: Group_021
+    3300030: Group_023
+    3300032: Group_026
+    3300034: Group_029
+    3300036: Group_030
+    3300038: Group_031
+    3300040: Group_032
+    3300042: Group_034
+    3300044: Group_036
+    3300046: Group_037
+    3300048: Line001
+    3300050: Plane001
+    3300052: Plane002
+    3300054: Silla
+    4300000: Cylinder001
+    4300002: Cylinder002
+    4300004: Group_001
+    4300006: Group_003
+    4300008: Group_004
+    4300010: Group_005
+    4300012: Group_008
+    4300014: Group_011
+    4300016: Group_012
+    4300018: Group_013
+    4300020: Group_014
+    4300022: Group_016
+    4300024: Group_018
+    4300026: Group_019
+    4300028: Group_021
+    4300030: Group_023
+    4300032: Group_026
+    4300034: Group_029
+    4300036: Group_030
+    4300038: Group_031
+    4300040: Group_032
+    4300042: Group_034
+    4300044: Group_036
+    4300046: Group_037
+    4300048: Line001
+    4300050: Plane001
+    4300052: Plane002
+    4300054: Silla
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

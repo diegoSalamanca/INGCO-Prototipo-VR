@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/PlantaPtar.unity
+    guid: 2d039c3ebfe52cd429025d7d718787a4
+  - enabled: 0
     path: Assets/Scenes/PlantaBicicletasVR.unity
     guid: 9d34e49eedd1c29408be835fc34c0c43
   m_configObjects:

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: Info_04_Desarenador-trampa_de_grasas
+  m_EditorClassIdentifier: 
+  title: Desarenador - Trampa de grasa
+  info: "Continuamente se retiran los s\xF3lidos en suspensi\xF3n mayores a 0,2 mm
+    durante 3 o 4 horas, con el fin de proteger equipos de bombeo, ductos de trasiego
+    y dem\xE1s elementos. Principalmente se retiran gravas, arenas y part\xEDculas
+    minerales, as\xED como material org\xE1nico en general, como c\xE1scaras, semillas,
+    trozos de madera. Tambi\xE9n se retira el material menos denso que pudiese acompa\xF1ar
+    al agua residual, como son las grasas, aceites y material flotante en general.
+    El desarenador y la trampa de grasas pueden operar de forma conjunta en unidades
+    compuestas por dos canales, uno para cada proceso. Estas unidades se conocen
+    como Desarenador-Desengrasador "
+  image: {fileID: 2725799426118882237, guid: 9a8fe5d6394eaa9499542aeaaaf4467f, type: 3}

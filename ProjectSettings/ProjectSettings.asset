@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: com.ingco.www
-  productName: VirtualBikeVR
+  productName: PtarVR
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
@@ -164,10 +164,8 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 11400000, guid: f5b5c1b0542c38943998b0f8f33b748d, type: 2}
-  - {fileID: 6937910920317876784, guid: d9a637fee22ecea4c8d08de7af894464, type: 2}
   - {fileID: 0}
-  - {fileID: 3630812779593766647, guid: 901b49c3b7e3ca5498e637b6c766de63, type: 2}
+  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -186,7 +184,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: ingco.VirtualBikeVR
+    Android: ingco.PtarVR
   buildNumber:
     Standalone: 0
     iPhone: 0

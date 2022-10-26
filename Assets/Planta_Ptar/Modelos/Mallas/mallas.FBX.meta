@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: f4276380599e7054983f2112706d239b
+timeCreated: 1459178647
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box4690
+    100002: Box4691
+    100004: Box4692
+    100006: Cylinder8581
+    100008: Cylinder8611
+    100010: Cylinder8621
+    100012: malla Digestor Anaerobico
+    100014: Malla Planta Electrica
+    100016: malla unidad de purificacion
+    100018: //RootNode
+    100020: Object094
+    100022: Object095
+    100024: Plane3272
+    400000: Box4690
+    400002: Box4691
+    400004: Box4692
+    400006: Cylinder8581
+    400008: Cylinder8611
+    400010: Cylinder8621
+    400012: malla Digestor Anaerobico
+    400014: Malla Planta Electrica
+    400016: malla unidad de purificacion
+    400018: //RootNode
+    400020: Object094
+    400022: Object095
+    400024: Plane3272
+    2300000: Box4690
+    2300002: Box4691
+    2300004: Box4692
+    2300006: Cylinder8581
+    2300008: Cylinder8611
+    2300010: Cylinder8621
+    2300012: Object094
+    2300014: Object095
+    2300016: Plane3272
+    3300000: Box4690
+    3300002: Box4691
+    3300004: Box4692
+    3300006: Cylinder8581
+    3300008: Cylinder8611
+    3300010: Cylinder8621
+    3300012: Object094
+    3300014: Object095
+    3300016: Plane3272
+    4300000: Plane3272
+    4300002: Cylinder8581
+    4300004: Box4690
+    4300006: Box4691
+    4300008: Object094
+    4300010: Cylinder8611
+    4300012: Object095
+    4300014: Cylinder8621
+    4300016: Box4692
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

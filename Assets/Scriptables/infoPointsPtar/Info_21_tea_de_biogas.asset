@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: Info_21_tea_de_biogas
+  m_EditorClassIdentifier: 
+  title: "Tea de biog\xE1s "
+  info: "Es un sistema cuya funci\xF3n es quemar controladamente el biog\xE1s. Este
+    quemador act\xFAa como un sistema de protecci\xF3n para evitar que el gas\xF3metro
+    est\xE9 sometido a una presi\xF3n superior para la que fue dise\xF1ado. La tea
+    se activa con una v\xE1lvula de control de presi\xF3n ubicada en el gas\xF3metro.
+    Una vez se alcanza la presi\xF3n de dise\xF1o del tanque, la v\xE1lvula se abre
+    para dar paso al biog\xE1s hacia el quemador, liberando la presi\xF3n dentro
+    del recipiente. "
+  image: {fileID: -5915845702866557489, guid: 9a8fe5d6394eaa9499542aeaaaf4467f, type: 3}

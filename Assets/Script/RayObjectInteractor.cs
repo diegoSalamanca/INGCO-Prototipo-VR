@@ -5,15 +5,15 @@ using UnityEngine.XR.Interaction.Toolkit;
 
 public class RayObjectInteractor : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    
+   
+    XRInteractorLineVisual xRInteractorLineVisual;
 
-    // Update is called once per frame
-    void Update()
-    {
+    [SerializeField]
+    Material reticleMatMarker, reticleMatInfo;
+
+    private void Start() {
+        xRInteractorLineVisual = GetComponent<XRInteractorLineVisual>();
         
     }
 
@@ -21,8 +21,16 @@ public class RayObjectInteractor : MonoBehaviour
     {
         if(args.interactableObject.transform.GetComponent<InfoObject>())
         {
+            xRInteractorLineVisual.reticle.GetComponentInChildren<MeshRenderer>().material = reticleMatInfo;
+            
+
+
             var info = args.interactableObject.transform.GetComponent<InfoObject>();
-            info.ActivatedOutline();
+            //info.ActivatedOutline();            
+        }
+        else
+        {
+            xRInteractorLineVisual.reticle.GetComponentInChildren<MeshRenderer>().material = reticleMatMarker;
         }
         
     }
@@ -31,8 +39,11 @@ public class RayObjectInteractor : MonoBehaviour
     {
         if(args.interactableObject.transform.GetComponent<InfoObject>())
         {
+            xRInteractorLineVisual.reticle.GetComponentInChildren<MeshRenderer>().material = reticleMatMarker;
+
             var info = args.interactableObject.transform.GetComponent<InfoObject>();
-            info.UnActivatedOutline();
+            //info.UnActivatedOutline();
+            
         }
         
     }
@@ -40,7 +51,7 @@ public class RayObjectInteractor : MonoBehaviour
     public void Select(SelectEnterEventArgs args)
     {
         print("Select");
-         if(args.interactableObject.transform.GetComponent<InfoObject>())
+        if(args.interactableObject.transform.GetComponent<InfoObject>())
         {
             var info = args.interactableObject.transform.GetComponent<InfoObject>();
             info.SetInfoWindow();
@@ -51,7 +62,7 @@ public class RayObjectInteractor : MonoBehaviour
     {
         print("UnSelect");
          if(args.interactableObject.transform.GetComponent<InfoObject>())
-        {
+        {           
             var info = args.interactableObject.transform.GetComponent<InfoObject>();
             info.DeleteInfoWindow();
         }

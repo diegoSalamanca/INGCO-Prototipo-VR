@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ad52930f10f8548957173569322f67, type: 3}
+  m_Name: Info_14_descarga_de_agua
+  m_EditorClassIdentifier: 
+  title: 'Descarga del agua '
+  info: "Etapa final del proceso para la corriente acuosa. El agua se vierte a un
+    cuerpo h\xEDdrico con menor carga contaminante y apta para nuevamente retornar
+    a su ciclo natural. En este punto se verifican los par\xE1metros de calidad del
+    agua a trav\xE9s de muestreos frecuentes junto con la medici\xF3n del caudal
+    de descarga con el fin de calcular indicadores de productividad de la PTAR."
+  image: {fileID: 3271966095722904245, guid: 9a8fe5d6394eaa9499542aeaaaf4467f, type: 3}
