@@ -723,7 +723,20 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: ENVIRO_LW
+    7: ENVIRO_LW
+    13: ENVIRO_LW
+    14: ENVIRO_LW
+    19: ENVIRO_LW
+    21: ENVIRO_LW
+    25: ENVIRO_LW
+    27: ENVIRO_LW
+    28: ENVIRO_LW
+    29: ENVIRO_LW
+    30: ENVIRO_LW
+    32: ENVIRO_LW
+    33: ENVIRO_LW
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
