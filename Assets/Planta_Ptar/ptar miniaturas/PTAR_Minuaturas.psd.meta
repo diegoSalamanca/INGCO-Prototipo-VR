@@ -72,7 +72,7 @@ TextureImporter:
       213: -3064123107774690958
     second: 23_Transformador
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -93,6 +93,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -131,6 +132,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -178,6 +180,18 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -676,6 +690,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      01_Cribado: 6998335939255995600
+      02_ColectorRediduos: 1326051882282684076
+      03_TanqueEcualizador: -1836492294181544140
+      04_Dearenador: 2725799426118882237
+      05_LavadorArenas: 2528812722614586356
+      06_DosificacionAditivos: 292362082955415488
+      07_Homogeneizador: -3307281679821245406
+      08_Floculador: -4448021441781355348
+      09_Flotacion: -300986942090879347
+      10_ReactorAnaerobio: -7031133482820522005
+      11_SedimentadorSecundario: -5308752610402046771
+      12_Filtracion: -5959090428959277536
+      13_Cloracipn: -255931946883857037
+      14_DescargaAgua: 3271966095722904245
+      15_EspesamientoLodos: 8914864551150812114
+      16_DigestionLodos: -6021822246145979266
+      17_DeshidratacionLodos: -2303478163334494033
+      18_AlmacenamientoLodos: -385855538523116991
+      19_AlmacenamientoBiogas: 483466399314179145
+      20_PurificacionBiogas: -5274958547900666328
+      21_TeaBiogas: -5915845702866557489
+      22_GeneradorElectrico: -6169952491960671839
+      23_Transformador: -3064123107774690958
   spritePackingTag: 
   pSDRemoveMatte: 1
   pSDShowRemoveMatteOption: 1

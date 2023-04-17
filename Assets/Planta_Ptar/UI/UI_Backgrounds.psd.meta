@@ -45,7 +45,7 @@ TextureImporter:
       213: -421291080848118879
     second: UI_Button_Border_Headings
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -65,6 +65,8 @@ TextureImporter:
   isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -96,10 +98,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -147,6 +153,18 @@ TextureImporter:
     crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -456,6 +474,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      UI_Background_2_Border: -2244580679490770186
+      UI_Background_2_Solid: -6575629251238779630
+      UI_Background_solid: 4888956903609427198
+      UI_Backgrounds_Border: 6936730843334922084
+      UI_Backgrounds_Headings: 3457854294319727367
+      UI_Backgrounds_Lateral: 7904967318846681368
+      UI_Bar_Opacity 40: 2812272302372061578
+      UI_Button_Border: 7778219507749245328
+      UI_Button_Border_Headings: -421291080848118879
+      UI_Button_Headings: -3353860183506136960
+      UI_Button_Solid: 196806804428910166
+      UI_Circle_Border: -1438325097568550430
+      UI_Circle_Solid: 7622205053084103652
+      UI_Gradient: -4335409553877432899
   spritePackingTag: 
   pSDRemoveMatte: 1
   pSDShowRemoveMatteOption: 1

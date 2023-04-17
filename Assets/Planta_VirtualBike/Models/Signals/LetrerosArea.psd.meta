@@ -123,6 +123,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -209,6 +210,18 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -875,6 +888,38 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      IndicadorFlecha: 21300052
+      Letrero_Logo: 21300054
+      Letreros Cubrecadenas: 21300058
+      Letreros Lotes 1: 21300060
+      Letreros Lotes 2: 21300062
+      Letreros Lotes 3: 21300064
+      Letreros Pedales: 21300008
+      Letreros Plato: 21300056
+      LetrerosAlmacen: 21300010
+      LetrerosBanos: 21300036
+      LetrerosCabina: 21300048
+      LetrerosCalidadPartes: 21300042
+      LetrerosCalidadProducto: 21300044
+      LetrerosCasino: 21300032
+      LetrerosCorte: 21300012
+      LetrerosDespacho: 21300016
+      LetrerosDoblado: 21300018
+      LetrerosEmpaque: 21300014
+      LetrerosEnsamble: 21300002
+      LetrerosHorneado: 21300050
+      LetrerosMaquinado: 21300006
+      LetrerosMateria: 21300028
+      LetrerosPintura: 21300034
+      LetrerosPorteria: 21300000
+      LetrerosRectificado: 21300030
+      LetrerosSala: 21300020
+      LetrerosSalon: 21300026
+      LetrerosSoldadura: 21300024
+      LetrerosTunel: 21300046
+      LetrerosVestierHombre: 21300038
+      LetrerosVestierMujer: 21300004
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 1
